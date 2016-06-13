@@ -1,5 +1,7 @@
 /*****************************************
 *     Aleks Nazarenko      13422452      *
+* Encodes and decodes a number of items  *
+* according to a static PMF		 *
 *                                        *
 *****************************************/
 #include <math.h>
