@@ -1,5 +1,6 @@
 /*****************************************
-*     Aleks Nazarenko      13422452      *
+*     Aleks Nazarenko                    *
+* Assigns Huffman Keys to Inputted PMF   *
 *****************************************/
 #include <string.h>
 #include <stdio.h>
